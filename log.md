@@ -10,4 +10,8 @@
 **Link to work:** [Calculator App](http://www.example.com)
 
 --->
+### Day 1: January 1, 2017
 
+**Today's Progress**:Developed the Layout of the Pomodoro app.
+**Thoughts:** Worked on the CSS and HTML, I'm getting better each day but with the help of Google.
+**Link to work:** Pomodoro app https://github.com/briankabiro/Pomodoro/commit/6378171dd57861c74f1ff8c1cd45080a4c91b684

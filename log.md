@@ -10,8 +10,13 @@
 **Link to work:** [Calculator App](http://www.example.com)
 
 --->
-### Day 1: January 1, 2017
+### Day 1: January 3, 2017
 
 **Today's Progress**:Developed the Layout of the Pomodoro app.
 **Thoughts:** Worked on the CSS and HTML, I'm getting better each day but with the help of Google.
 **Link to work:** Pomodoro app https://github.com/briankabiro/Pomodoro/commit/6378171dd57861c74f1ff8c1cd45080a4c91b684
+
+### DAy 2: january 4, 2017
+***Today's Progress**: Integrated Vue js with the App and added functionality to some of the buttons
+**Thoughts** Underestimated the time it would take to learn Vue, ended up spending much of my time learning,
+**Link to work** Pomodoro app https://github.com/briankabiro/Pomodoro/commit/dda9fdafa6c73bbfcbfaea04d10a11b763cf675e

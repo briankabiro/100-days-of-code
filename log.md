@@ -17,6 +17,11 @@
 **Link to work:** Pomodoro app https://github.com/briankabiro/Pomodoro/commit/6378171dd57861c74f1ff8c1cd45080a4c91b684
 
 ### Day 2: January 4, 2017
-***Today's Progress**: Integrated Vue js with the App and added functionality to some of the buttons
+**Today's Progress**: Integrated Vue js with the App and added functionality to some of the buttons
 **Thoughts** Underestimated the time it would take to learn Vue, ended up spending much of my time learning,
 **Link to work** Pomodoro app https://github.com/briankabiro/Pomodoro/commit/dda9fdafa6c73bbfcbfaea04d10a11b763cf675e
+
+### Day 3: January 5, 2017
+**Today's Progress**: Revamped the logic of the app and added code from another pomodoro project
+**Thoughts**: I thought that Vue would get easier today but I clearly have a lot to learn. Will work on my knowledge
+**Link to work**:Pomodoro app https://github.com/briankabiro/Pomodoro/commit/85bfeab30bba0edaaee9cee7f9be396c05dfd8d1

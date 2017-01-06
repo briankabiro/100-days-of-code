@@ -25,3 +25,9 @@
 **Today's Progress**: Revamped the logic of the app and added code from another pomodoro project
 **Thoughts**: I thought that Vue would get easier today but I clearly have a lot to learn. Will work on my knowledge
 **Link to work**:Pomodoro app https://github.com/briankabiro/Pomodoro/commit/85bfeab30bba0edaaee9cee7f9be396c05dfd8d1
+
+
+### Day 4: January 6, 2017
+**Today's Progress**: Added the full Pomodoro app to the master 
+**Thoughts**: It was hard to understand the full logic but wil try and rebuild it all now that I do
+**Link to work**: Pomodoro app https://github.com/briankabiro/Pomodoro/commit/46ef550c858f5c78299ef636807475a77c1e712f

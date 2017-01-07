@@ -8,7 +8,10 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
-
+### Day : January , 2017
+**Today's Progress**:
+**Thoughts**:
+**Link to work**:
 --->
 ### Day 1: January 3, 2017
 
@@ -31,3 +34,8 @@
 **Today's Progress**: Added the full Pomodoro app to the master 
 **Thoughts**: It was hard to understand the full logic but wil try and rebuild it all now that I do
 **Link to work**: Pomodoro app https://github.com/briankabiro/Pomodoro/commit/46ef550c858f5c78299ef636807475a77c1e712f
+
+### Day 5: January 7, 2017
+**Today's Progress**: I rebuilt the app, 90% of the effort was my own
+**Thoughts**: I understood the nitty gritties, if I want to understand will try and rebuild on my own whil referencing if need be
+**Link to work**:Pomodoro app https://github.com/briankabiro/Pomodoro/commit/e0d4889adcf41635c018af83daf7cbbafacd9bad

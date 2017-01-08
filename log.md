@@ -37,5 +37,10 @@
 
 ### Day 5: January 7, 2017
 **Today's Progress**: I rebuilt the app, 90% of the effort was my own
-**Thoughts**: I understood the nitty gritties, if I want to understand will try and rebuild on my own whil referencing if need be
+**Thoughts**: I understood the nitty gritties, if I want to understand will try and rebuild on my own while referencing if need be
 **Link to work**:Pomodoro app https://github.com/briankabiro/Pomodoro/commit/e0d4889adcf41635c018af83daf7cbbafacd9bad
+
+### Day 6 : January 8, 2017
+**Today's Progress**: Started the Tic Tac Toe app and laid out some boilerplate
+**Thoughts**:Learning by building is the best kind of learning, forces you to use what you read
+**Link to work**:Tic Tac Toe app https://github.com/briankabiro/Tic-Tac-Toe/commit/5a38641f980bf122cfa8ac7f7dce0bbac45de63e

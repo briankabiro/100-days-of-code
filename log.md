@@ -44,3 +44,8 @@
 **Today's Progress**: Started the Tic Tac Toe app and laid out some boilerplate
 **Thoughts**:Learning by building is the best kind of learning, forces you to use what you read
 **Link to work**:Tic Tac Toe app https://github.com/briankabiro/Tic-Tac-Toe/commit/5a38641f980bf122cfa8ac7f7dce0bbac45de63e
+
+### Day 7 : January 9, 2017
+**Today's Progress**: Tried to sort out the logic of the app but failed miserably 
+**Thoughts**: If working on a project in a new language, better to read code and then try on my own instead of guessing
+**Link to work**: Tic Tac Toe app https://github.com/briankabiro/Tic-Tac-Toe/commit/8fd9282973c701601a52a546d988f8accca3a992

@@ -20,32 +20,43 @@
 **Link to work:** Pomodoro app https://github.com/briankabiro/Pomodoro/commit/6378171dd57861c74f1ff8c1cd45080a4c91b684
 
 ### Day 2: January 4, 2017
+
 **Today's Progress**: Integrated Vue js with the App and added functionality to some of the buttons
 **Thoughts** Underestimated the time it would take to learn Vue, ended up spending much of my time learning,
 **Link to work** Pomodoro app https://github.com/briankabiro/Pomodoro/commit/dda9fdafa6c73bbfcbfaea04d10a11b763cf675e
 
 ### Day 3: January 5, 2017
+
 **Today's Progress**: Revamped the logic of the app and added code from another pomodoro project
 **Thoughts**: I thought that Vue would get easier today but I clearly have a lot to learn. Will work on my knowledge
 **Link to work**:Pomodoro app https://github.com/briankabiro/Pomodoro/commit/85bfeab30bba0edaaee9cee7f9be396c05dfd8d1
 
 
 ### Day 4: January 6, 2017
+
 **Today's Progress**: Added the full Pomodoro app to the master 
 **Thoughts**: It was hard to understand the full logic but wil try and rebuild it all now that I do
 **Link to work**: Pomodoro app https://github.com/briankabiro/Pomodoro/commit/46ef550c858f5c78299ef636807475a77c1e712f
 
 ### Day 5: January 7, 2017
+
 **Today's Progress**: I rebuilt the app, 90% of the effort was my own
 **Thoughts**: I understood the nitty gritties, if I want to understand will try and rebuild on my own while referencing if need be
 **Link to work**:Pomodoro app https://github.com/briankabiro/Pomodoro/commit/e0d4889adcf41635c018af83daf7cbbafacd9bad
 
 ### Day 6 : January 8, 2017
+
 **Today's Progress**: Started the Tic Tac Toe app and laid out some boilerplate
 **Thoughts**:Learning by building is the best kind of learning, forces you to use what you read
 **Link to work**:Tic Tac Toe app https://github.com/briankabiro/Tic-Tac-Toe/commit/5a38641f980bf122cfa8ac7f7dce0bbac45de63e
 
 ### Day 7 : January 9, 2017
+
 **Today's Progress**: Tried to sort out the logic of the app but failed miserably 
 **Thoughts**: If working on a project in a new language, better to read code and then try on my own instead of guessing
 **Link to work**: Tic Tac Toe app https://github.com/briankabiro/Tic-Tac-Toe/commit/8fd9282973c701601a52a546d988f8accca3a992
+
+### Day 8: January 10, 2017
+**Today's Progress**: Made the app function, 2 player and winning functionality left
+**Thoughts**:First 1 hour try on your own, download similar project then learn from it, 3rd hour scrap all and try on your own
+**Link to work**:https://github.com/briankabiro/Tic-Tac-Toe/commit/231af1f8cd39f95ec9fdd20ad938942aef8b4673

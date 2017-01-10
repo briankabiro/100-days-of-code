@@ -9,14 +9,19 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 ### Day : January , 2017
+
 **Today's Progress**:
+
 **Thoughts**:
+
 **Link to work**:
 --->
 ### Day 1: January 3, 2017
 
 **Today's Progress**:Developed the Layout of the Pomodoro app.
+
 **Thoughts:** Worked on the CSS and HTML, I'm getting better each day but with the help of Google.
+
 **Link to work:** Pomodoro app https://github.com/briankabiro/Pomodoro/commit/6378171dd57861c74f1ff8c1cd45080a4c91b684
 
 ### Day 2: January 4, 2017
@@ -41,7 +46,9 @@
 ### Day 5: January 7, 2017
 
 **Today's Progress**: I rebuilt the app, 90% of the effort was my own
+
 **Thoughts**: I understood the nitty gritties, if I want to understand will try and rebuild on my own while referencing if need be
+
 **Link to work**:Pomodoro app https://github.com/briankabiro/Pomodoro/commit/e0d4889adcf41635c018af83daf7cbbafacd9bad
 
 ### Day 6 : January 8, 2017
@@ -57,6 +64,7 @@
 **Link to work**: Tic Tac Toe app https://github.com/briankabiro/Tic-Tac-Toe/commit/8fd9282973c701601a52a546d988f8accca3a992
 
 ### Day 8: January 10, 2017
+
 **Today's Progress**: Made the app function, 2 player and winning functionality left
 **Thoughts**:First 1 hour try on your own, download similar project then learn from it, 3rd hour scrap all and try on your own
 **Link to work**:https://github.com/briankabiro/Tic-Tac-Toe/commit/231af1f8cd39f95ec9fdd20ad938942aef8b4673

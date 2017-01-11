@@ -80,3 +80,11 @@
 **Thoughts**:First 1 hour try on your own, download similar project then learn from it, 3rd hour scrap all and try on your own
 
 **Link to work**:https://github.com/briankabiro/Tic-Tac-Toe/commit/231af1f8cd39f95ec9fdd20ad938942aef8b4673
+
+### Day 9: January 11, 2017
+
+**Today's Progress**:Added computer functionality, learnt to write functions without excessive wording
+
+**Thoughts**:I shoudl work to produce more featres, so far the policy from day 8 is working well
+
+**Link to work**:https://github.com/briankabiro/Tic-Tac-Toe/commit/93c88d6e77580686d2316275309f46b7fb033826

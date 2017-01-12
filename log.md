@@ -88,3 +88,11 @@
 **Thoughts**:I shoudl work to produce more featres, so far the policy from day 8 is working well
 
 **Link to work**:https://github.com/briankabiro/Tic-Tac-Toe/commit/93c88d6e77580686d2316275309f46b7fb033826
+
+### Day 10: January 12, 2017
+
+**Today's Progress**: Added check for winner functionality, 
+
+**Thoughts**: It has a few errors but I can fix them. Problems with my mouse are not helping
+
+**Link to work**: https://github.com/briankabiro/Tic-Tac-Toe/commit/e65d3c912da4989c7f9a18d5bebeacc53f6711de        

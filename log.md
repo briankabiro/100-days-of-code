@@ -96,3 +96,11 @@
 **Thoughts**: It has a few errors but I can fix them. Problems with my mouse are not helping
 
 **Link to work**: https://github.com/briankabiro/Tic-Tac-Toe/commit/e65d3c912da4989c7f9a18d5bebeacc53f6711de        
+
+### Day 11: January 13, 2017
+
+**Today's Progress**:Started the Calculator app
+
+**Thoughts**: Learnt that I still need to work on my CSS more
+
+**Link to work**:https://github.com/briankabiro/Calculator/commit/5ee1856c4e8eb043ad1c57c518c2d653bc83c86d

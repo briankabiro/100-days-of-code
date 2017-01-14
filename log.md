@@ -104,3 +104,11 @@
 **Thoughts**: Learnt that I still need to work on my CSS more
 
 **Link to work**:https://github.com/briankabiro/Calculator/commit/5ee1856c4e8eb043ad1c57c518c2d653bc83c86d
+
+### Day 12: January 14, 2017
+
+**Today's Progress**: Redesigned the Calculator app and got it working halfway
+
+**Thoughts**:CSS will eat your day, counting on this experience to help me in the future
+
+**Link to work**:https://github.com/briankabiro/Calculator/commit/21127c082766715470a7d6c4254231af1142e607

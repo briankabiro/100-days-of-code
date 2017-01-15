@@ -112,3 +112,11 @@
 **Thoughts**:CSS will eat your day, counting on this experience to help me in the future
 
 **Link to work**:https://github.com/briankabiro/Calculator/commit/21127c082766715470a7d6c4254231af1142e607
+
+### Day 13: January 15, 2017
+
+**Today's Progress**:Rebuilt Calculator functionality, uses intepreter to calculate 
+
+**Thoughts**:It's frustrating to code all day, should find something to unwind through
+
+**Link to work**:https://github.com/briankabiro/Calculator/commit/0b59fe167c2fe5b4f84b17f7e17e2033a607814e

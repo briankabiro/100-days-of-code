@@ -85,7 +85,7 @@
 
 **Today's Progress**:Added computer functionality, learnt to write functions without excessive wording
 
-**Thoughts**:I shoudl work to produce more featres, so far the policy from day 8 is working well
+**Thoughts**:I should work to produce more featres, so far the policy from day 8 is working well
 
 **Link to work**:https://github.com/briankabiro/Tic-Tac-Toe/commit/93c88d6e77580686d2316275309f46b7fb033826
 
@@ -120,3 +120,11 @@
 **Thoughts**:It's frustrating to code all day, should find something to unwind through
 
 **Link to work**:https://github.com/briankabiro/Calculator/commit/0b59fe167c2fe5b4f84b17f7e17e2033a607814e
+
+### Day 14: January 16, 2017
+
+**Today's Progress**: Fixed the Tic Tac Toe App and the Calculator. Not yet - Pomodoro
+
+**Thoughts**:Finding a fix was fun, not finding one was frustrating. Good to leave a problem & come back later
+
+**Link to work**:https://github.com/briankabiro/Calculator/commit/490ac02bc6f57e7b4457b18aa85953c15a0e5b76

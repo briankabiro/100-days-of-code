@@ -128,3 +128,11 @@
 **Thoughts**:Finding a fix was fun, not finding one was frustrating. Good to leave a problem & come back later
 
 **Link to work**:https://github.com/briankabiro/Calculator/commit/490ac02bc6f57e7b4457b18aa85953c15a0e5b76
+
+### Day 15: January 17, 2017
+
+**Today's Progress**:Did some Node JS and setup the basic template of Todo App
+
+**Thoughts**:There's nothing better than using code to solve your problem. Will try and work on other Free Code Camp projects 
+
+**Link to work**:https://github.com/briankabiro/To-Do-App/commit/9bba49aec14c458f01cb8a705f1f561a3a966640

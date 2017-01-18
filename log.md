@@ -136,3 +136,11 @@
 **Thoughts**:There's nothing better than using code to solve your problem. Will try and work on other Free Code Camp projects 
 
 **Link to work**:https://github.com/briankabiro/To-Do-App/commit/9bba49aec14c458f01cb8a705f1f561a3a966640
+
+### Day 16: January 18, 2017
+
+**Today's Progress**:Added some JS logic to the todo app. Unproductive on that side. Finished express
+
+**Thoughts**:Some days the distractions will make you frustrated, you have to keep on
+
+**Link to work**:https://github.com/briankabiro/To-Do-App/commit/e6490e08ccd360f7986e5fc60bb59402b2d1c2ac

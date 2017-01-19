@@ -144,3 +144,11 @@
 **Thoughts**:Some days the distractions will make you frustrated, you have to keep on
 
 **Link to work**:https://github.com/briankabiro/To-Do-App/commit/e6490e08ccd360f7986e5fc60bb59402b2d1c2ac
+
+### Day 17: January 19, 2017
+
+**Today's Progress**:Finally got the app to work, can now choose a design from dribbble
+
+**Thoughts**:A project is the best way to learn since it <forces> you to really grasp the concept
+
+**Link to work**:https://github.com/briankabiro/To-Do-App/commit/d7c2f657488f142fda85e8578dafa5b9e64c9d6a

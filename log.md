@@ -149,6 +149,6 @@
 
 **Today's Progress**:Finally got the app to work, can now choose a design from dribbble
 
-**Thoughts**:A project is the best way to learn since it _forces_ you to really grasp the concept
+**Thoughts**:A project is the best way to learn since it **forces** you to really grasp the concept
 
 **Link to work**:https://github.com/briankabiro/To-Do-App/commit/d7c2f657488f142fda85e8578dafa5b9e64c9d6a

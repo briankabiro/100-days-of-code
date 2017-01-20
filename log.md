@@ -152,3 +152,11 @@
 **Thoughts**:A project is the best way to learn since it **forces** you to really grasp the concept
 
 **Link to work**:https://github.com/briankabiro/To-Do-App/commit/d7c2f657488f142fda85e8578dafa5b9e64c9d6a
+
+### Day 18: January 20, 2017
+
+**Today's Progress**:Did a lot of CSS. Added a little to todo app
+
+**Thoughts**:CSS is really like the GIF. Make sure that I train so that I don't waste as much time on it. Did my first api call, was successful
+
+**Link to work**:https://github.com/briankabiro/To-Do-App/commit/5ad572359172274e56661e8ee579326b85008048

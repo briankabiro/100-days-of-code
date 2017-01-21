@@ -160,3 +160,11 @@
 **Thoughts**:CSS is really like the GIF. Make sure that I train so that I don't waste as much time on it. Did my first api call, was successful
 
 **Link to work**:https://github.com/briankabiro/To-Do-App/commit/5ad572359172274e56661e8ee579326b85008048
+
+### Day 19: January 21, 2017
+
+**Today's Progress**:Cheated on to do app, realized why webpack and all that node js stuff
+
+**Thoughts**:https://github.com/briankabiro/To-Do-App/commit/fb980625779903e605bb900e1e4430979ad630a1
+
+**Link to work**:

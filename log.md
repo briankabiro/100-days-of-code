@@ -165,6 +165,14 @@
 
 **Today's Progress**:Cheated on to do app, realized why webpack and all that node js stuff
 
-**Thoughts**:https://github.com/briankabiro/To-Do-App/commit/fb980625779903e605bb900e1e4430979ad630a1
+**Thoughts**:The learning doesn't end, need to persevere and will get there somehow
 
-**Link to work**:
+**Link to work**:https://github.com/briankabiro/To-Do-App/commit/fb980625779903e605bb900e1e4430979ad630a1
+
+### Day 20: January 22, 2017
+
+**Today's Progress**:Read on webpack, did a little site building, set up mpesa conmen routes
+
+**Thoughts**:This setting up stuff is really taxing, when I'm fully there. Will build like never before
+
+**Link to work**:https://github.com/briankabiro/live-tweets/commit/9a8e063960b5d25b64ee1f89bbdf20b7c9417eea

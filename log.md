@@ -176,3 +176,11 @@
 **Thoughts**:This setting up stuff is really taxing, when I'm fully there. Will build like never before
 
 **Link to work**:https://github.com/briankabiro/live-tweets/commit/9a8e063960b5d25b64ee1f89bbdf20b7c9417eea
+
+### Day 21: January 23, 2017
+
+**Today's Progress**:Did some html and css to the telebus website,changed harpy-time 
+
+**Thoughts**:Dedicating one hour to each task is the best way to guarantee progress
+
+**Link to work**:https://github.com/briankabiro/live-tweets/commit/f8fb562155d188c9931a742fcd777517ea4bb9e4

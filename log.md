@@ -184,3 +184,19 @@
 **Thoughts**:Dedicating one hour to each task is the best way to guarantee progress
 
 **Link to work**:https://github.com/briankabiro/live-tweets/commit/f8fb562155d188c9931a742fcd777517ea4bb9e4
+<!--
+### Day : January , 2017
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**:
+-->
+### Day 22: January 24, 2017
+
+**Today's Progress**:Got Live tweets to work. Disappointed about webpack setup.Please just work already
+
+**Thoughts**:Configuration really takes time. Devote less time to CSS and not to configuration 
+
+**Link to work**:https://github.com/briankabiro/live-tweets/commit/2c7a0cf7371673849b2e7e1b24413892c23868ab

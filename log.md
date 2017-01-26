@@ -200,3 +200,11 @@
 **Thoughts**:Configuration really takes time. Devote less time to CSS and not to configuration 
 
 **Link to work**:https://github.com/briankabiro/live-tweets/commit/2c7a0cf7371673849b2e7e1b24413892c23868ab
+
+### Day 23: January 25, 2017
+
+**Today's Progress**:Got live-tweets to iterate over a list of tweets
+
+**Thoughts**:Its fun when you code something and it works the way you want to. Hope it goes like this in the future
+
+**Link to work**:https://github.com/briankabiro/live-tweets/commit/9478688e58dc149723036ce7a58ec6d6bc6f7167

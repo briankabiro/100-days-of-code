@@ -208,3 +208,12 @@
 **Thoughts**:Its fun when you code something and it works the way you want to. Hope it goes like this in the future
 
 **Link to work**:https://github.com/briankabiro/live-tweets/commit/9478688e58dc149723036ce7a58ec6d6bc6f7167
+
+
+### Day 24: January 26, 2017
+
+**Today's Progress**:Worked on live tweets and a new billboard new songs project
+
+**Thoughts**:It's fun to work on your projects; can't stop working. Remember Google AI stuff
+
+**Link to work**:https://github.com/briankabiro/live-tweets/commit/ed2a197b5ad1c7571d30eea59dbbdaff0392114b

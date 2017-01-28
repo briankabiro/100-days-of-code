@@ -217,3 +217,11 @@
 **Thoughts**:It's fun to work on your projects; can't stop working. Remember Google AI stuff
 
 **Link to work**:https://github.com/briankabiro/live-tweets/commit/ed2a197b5ad1c7571d30eea59dbbdaff0392114b
+
+### Day 25: January 27, 2017
+
+**Today's Progress**:Added another function to billboard app
+
+**Thoughts**:Fifa is really eating into my time, try and stay a day without playing
+
+**Link to work**:https://github.com/briankabiro/Billboard-New-Songs-Chart/commit/19194da0031e279d775b1375a591e4616d166110

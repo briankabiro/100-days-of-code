@@ -225,3 +225,11 @@
 **Thoughts**:Fifa is really eating into my time, try and stay a day without playing
 
 **Link to work**:https://github.com/briankabiro/Billboard-New-Songs-Chart/commit/19194da0031e279d775b1375a591e4616d166110
+
+### Day 26: January 28, 2017
+
+**Today's Progress**:Worked on adding socket io to a project and developed function for billboard chat
+
+**Thoughts**:Will try and link the functions to do the work tomorrow. Sometimes learning is hard
+
+**Link to work**:https://github.com/briankabiro/Billboard-New-Songs-Chart/commit/9c9a65e9d82ee2385a90938762ac39002c770a19

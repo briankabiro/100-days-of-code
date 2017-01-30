@@ -233,3 +233,11 @@
 **Thoughts**:Will try and link the functions to do the work tomorrow. Sometimes learning is hard
 
 **Link to work**:https://github.com/briankabiro/Billboard-New-Songs-Chart/commit/9c9a65e9d82ee2385a90938762ac39002c770a19
+
+### Day 27: January 29, 2017
+
+**Today's Progress**:Finally got back to working on live tweets, server and client are communicating
+
+**Thoughts**:Some days are good, some days are bad. Do one doc tutorial and go the easy way at first
+
+**Link to work**:https://github.com/briankabiro/live-tweets/commit/93f53a0ed6405169fb7313fcdad91e6c73e90761

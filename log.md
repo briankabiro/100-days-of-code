@@ -241,3 +241,11 @@
 **Thoughts**:Some days are good, some days are bad. Do one doc tutorial and go the easy way at first
 
 **Link to work**:https://github.com/briankabiro/live-tweets/commit/93f53a0ed6405169fb7313fcdad91e6c73e90761
+
+### Day 28: January 30, 2017
+
+**Today's Progress**:Created billboard app functions and worked on live-tweets
+
+**Thoughts**:Learning never ends, but by building projects we kill two birds with one stone
+
+**Link to work**:https://github.com/briankabiro/live-tweets/commit/540628e9689c9884282dad208d3c1cec451c12b2

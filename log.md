@@ -257,3 +257,11 @@
 **Thoughts**:Got immersed in coding today. Seems like I'll have to choose between Go, Rust, Clojure and C
 
 **Link to work**:https://github.com/briankabiro/Billboard-New-Songs-Chart/commit/fabe47ae32926029d4066ca0bc9486fd27c433dd
+
+### Day 30: February 1, 2017
+
+**Today's Progress**:Worked on random quote generator layout and live-tweets
+
+**Thoughts**:Some days are good, this one was bad. Need to fully immerse myself to realize my dreams
+
+**Link to work**:https://github.com/briankabiro/Random-Quote-Generator/commits?author=briankabiro&since=2017-02-01T21:00:00Z&until=2017-02-02T21:00:00Z

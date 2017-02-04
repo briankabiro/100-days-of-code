@@ -265,3 +265,11 @@
 **Thoughts**:Some days are good, this one was bad. Need to fully immerse myself to realize my dreams
 
 **Link to work**:https://github.com/briankabiro/Random-Quote-Generator/commits?author=briankabiro&since=2017-02-01T21:00:00Z&until=2017-02-02T21:00:00Z
+
+### Day 31: January 4, 2017
+
+**Today's Progress**:Worked on Live tweets and the random quote generator 
+
+**Thoughts**:Got both of the above to make requests to api and serve on screen
+
+**Link to work**:https://github.com/briankabiro/live-tweets/commit/a352459a3ab80cabe7a9eba8c0bb5c71f8fb45a7

@@ -273,3 +273,11 @@
 **Thoughts**:Got both of the above to make requests to api and serve on screen
 
 **Link to work**:https://github.com/briankabiro/live-tweets/commit/a352459a3ab80cabe7a9eba8c0bb5c71f8fb45a7
+
+### Day 32: January 5, 2017
+
+**Today's Progress**:Added random color change to random quote generator
+
+**Thoughts**:This promises thing will be hard for me to grasp but I will keep on pushing
+
+**Link to work**:https://github.com/briankabiro/Random-Quote-Generator/commit/3d8e9170ec872c3dba210e16baffcd2c2c5cd4f6

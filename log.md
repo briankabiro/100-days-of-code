@@ -258,7 +258,7 @@
 
 **Link to work**:https://github.com/briankabiro/Billboard-New-Songs-Chart/commit/fabe47ae32926029d4066ca0bc9486fd27c433dd
 
-### Day 30: February 1, 2017
+### Day 30: February 2, 2017
 
 **Today's Progress**:Worked on random quote generator layout and live-tweets
 
@@ -266,7 +266,7 @@
 
 **Link to work**:https://github.com/briankabiro/Random-Quote-Generator/commits?author=briankabiro&since=2017-02-01T21:00:00Z&until=2017-02-02T21:00:00Z
 
-### Day 31: January 4, 2017
+### Day 31: February 4, 2017
 
 **Today's Progress**:Worked on Live tweets and the random quote generator 
 
@@ -274,10 +274,18 @@
 
 **Link to work**:https://github.com/briankabiro/live-tweets/commit/a352459a3ab80cabe7a9eba8c0bb5c71f8fb45a7
 
-### Day 32: January 5, 2017
+### Day 32: February 5, 2017
 
 **Today's Progress**:Added random color change to random quote generator
 
 **Thoughts**:This promises thing will be hard for me to grasp but I will keep on pushing
 
 **Link to work**:https://github.com/briankabiro/Random-Quote-Generator/commit/3d8e9170ec872c3dba210e16baffcd2c2c5cd4f6
+
+### Day 33: February 6, 2017
+
+**Today's Progress**:Setup Local Weather App and did some work on mpesa conmen
+
+**Thoughts**:I have to write a lot of code if I want to improve my chances of getting a job.
+
+**Link to work**:https://github.com/briankabiro/Local-Weather-App/commit/25106717230adcd4ff399c92f597778991060579

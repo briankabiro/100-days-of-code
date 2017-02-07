@@ -289,3 +289,11 @@
 **Thoughts**:I have to write a lot of code if I want to improve my chances of getting a job.
 
 **Link to work**:https://github.com/briankabiro/Local-Weather-App/commit/25106717230adcd4ff399c92f597778991060579
+
+### Day 34: January 7, 2017
+
+**Today's Progress**:Worked on local weather app, fetches and displays some data
+
+**Thoughts**:If I keep my head down I can work hard enough to move to Canada which is a step forward.
+
+**Link to work**:https://github.com/briankabiro/Local-Weather-App/commit/87f08a30e6905e6a8a6de37a20c3d766672d8415

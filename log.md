@@ -290,10 +290,18 @@
 
 **Link to work**:https://github.com/briankabiro/Local-Weather-App/commit/25106717230adcd4ff399c92f597778991060579
 
-### Day 34: January 7, 2017
+### Day 34: February 7, 2017
 
 **Today's Progress**:Worked on local weather app, fetches and displays some data
 
 **Thoughts**:If I keep my head down I can work hard enough to move to Canada which is a step forward.
 
 **Link to work**:https://github.com/briankabiro/Local-Weather-App/commit/87f08a30e6905e6a8a6de37a20c3d766672d8415
+
+### Day 35: February 8, 2017
+
+**Today's Progress**:Finished local weather app user stories
+
+**Thoughts**:It's just fun when your code works. I'll need to work hard and learn Python, Elm, Rust and Clojure.
+
+**Link to work**:https://github.com/briankabiro/Local-Weather-App/commit/a51f6a82d0ee48b1284334027690ece6aa65a2d9

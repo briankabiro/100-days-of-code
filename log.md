@@ -8,7 +8,7 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
-### Day : January , 2017
+### Day : February , 2017
 
 **Today's Progress**:
 
@@ -305,3 +305,11 @@
 **Thoughts**:It's just fun when your code works. I'll need to work hard and learn Python, Elm, Rust and Clojure.
 
 **Link to work**:https://github.com/briankabiro/Local-Weather-App/commit/a51f6a82d0ee48b1284334027690ece6aa65a2d9
+
+### Day 36: February 9, 2017
+
+**Today's Progress**:Laid out the tribute web page, tomorrow will add the stuff
+
+**Thoughts**:Hacking is really fun. Kali Linux here I come
+
+**Link to work**:https://github.com/briankabiro/Tribute-Page/commit/f49969689eb13e73642075817f823df2bbef7b09

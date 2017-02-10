@@ -313,3 +313,11 @@
 **Thoughts**:Hacking is really fun. Kali Linux here I come
 
 **Link to work**:https://github.com/briankabiro/Tribute-Page/commit/f49969689eb13e73642075817f823df2bbef7b09
+
+### Day 37: February 10, 2017
+
+**Today's Progress**:Refactored local weather app and added content to tribute page
+
+**Thoughts**:Stack Overflow is amazing. Asking questions is the fastest way to get a solution
+
+**Link to work**:https://github.com/briankabiro/Local-Weather-App/commit/1677cbf8fdf4ccb911481627d4a5b8b12fc660e1

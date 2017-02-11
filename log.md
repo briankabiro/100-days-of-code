@@ -321,3 +321,11 @@
 **Thoughts**:Stack Overflow is amazing. Asking questions is the fastest way to get a solution
 
 **Link to work**:https://github.com/briankabiro/Local-Weather-App/commit/1677cbf8fdf4ccb911481627d4a5b8b12fc660e1
+
+### Day 38: February 11, 2017
+
+**Today's Progress**:Added content to Tribute page and worked on Censys api
+
+**Thoughts**:Will immerse myself in creating Censys thingy. Tomorrow I start Wikipedia viewer
+
+**Link to work**:https://github.com/briankabiro/Tribute-Page/commit/b5da05b8e60779d795ff9cf72534aa00d5012222

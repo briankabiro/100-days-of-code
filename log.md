@@ -329,3 +329,11 @@
 **Thoughts**:Will immerse myself in creating Censys thingy. Tomorrow I start Wikipedia viewer
 
 **Link to work**:https://github.com/briankabiro/Tribute-Page/commit/b5da05b8e60779d795ff9cf72534aa00d5012222
+
+### Day 39: February 12, 2017
+
+**Today's Progress**:Worked on tribute page and the censys api client functions
+
+**Thoughts**:Working hard will improve my chances of success. I must do that.
+
+**Link to work**:https://github.com/briankabiro/censys-node-js/commit/0556478334ec1c593cf8a2f31a5b86293f7a2c3f

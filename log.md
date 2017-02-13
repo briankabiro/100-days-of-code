@@ -337,3 +337,11 @@
 **Thoughts**:Working hard will improve my chances of success. I must do that.
 
 **Link to work**:https://github.com/briankabiro/censys-node-js/commit/0556478334ec1c593cf8a2f31a5b86293f7a2c3f
+
+### Day 40: February 13, 2017
+
+**Today's Progress**:Worked on mPesa Conmen and laid out wikipedia viewer
+
+**Thoughts**:Sometimes a day can go by when you are working. You need to push yourself even if it feels meaningless.
+
+**Link to work**:https://github.com/briankabiro/wikipedia-viewer/commit/8a0fdf81a00e4cb04f43a1e08173ebe46416ab15

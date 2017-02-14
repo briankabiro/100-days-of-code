@@ -345,3 +345,11 @@
 **Thoughts**:Sometimes a day can go by when you are working. You need to push yourself even if it feels meaningless.
 
 **Link to work**:https://github.com/briankabiro/wikipedia-viewer/commit/8a0fdf81a00e4cb04f43a1e08173ebe46416ab15
+
+### Day 41: February 14, 2017
+
+**Today's Progress**:Worked on mPesa conmen for better part of today. Failed at wikiviewer
+
+**Thoughts**:Today was another day of full work but with some disappointments. Hope all goes well kesho
+
+**Link to work**:https://github.com/briankabiro/wikipedia-viewer/commit/a61f219329ade5ca23b983ce4018ff1199d9e66e

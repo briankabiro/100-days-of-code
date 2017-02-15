@@ -353,3 +353,11 @@
 **Thoughts**:Today was another day of full work but with some disappointments. Hope all goes well kesho
 
 **Link to work**:https://github.com/briankabiro/wikipedia-viewer/commit/a61f219329ade5ca23b983ce4018ff1199d9e66e
+
+### Day 42: February 15, 2017
+
+**Today's Progress**:Added functions to censys node js  
+
+**Thoughts**:Where there is a will there is a way so work hard at something and remain determined
+
+**Link to work**:https://github.com/briankabiro/censys-node-js/commit/b0e20c3a82e3199dbad0870aaf64c7c38c7642f5

@@ -361,3 +361,11 @@
 **Thoughts**:Where there is a will there is a way so work hard at something and remain determined
 
 **Link to work**:https://github.com/briankabiro/censys-node-js/commit/b0e20c3a82e3199dbad0870aaf64c7c38c7642f5
+
+### Day 43: February 16, 2017
+
+**Today's Progress**:Worked on cenys and wikiviewer. Glad to say that we have lift off
+
+**Thoughts**:Change is the only constant so try and embrace solutions online even if you don't want to
+
+**Link to work**:https://github.com/briankabiro/wikipedia-viewer/commit/0569e3256b4bb562ee7848a175bf27c59de91b35

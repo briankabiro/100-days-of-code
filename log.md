@@ -369,3 +369,11 @@
 **Thoughts**:Change is the only constant so try and embrace solutions online even if you don't want to
 
 **Link to work**:https://github.com/briankabiro/wikipedia-viewer/commit/0569e3256b4bb562ee7848a175bf27c59de91b35
+
+### Day 44: February 17, 2017
+
+**Today's Progress**:Worked on censys   
+
+**Thoughts**:Module accepts configuration from external file
+
+**Link to work**:https://github.com/briankabiro/censys-node-js/commit/e1b77adf47f60e6302c44d7f74137e5817fd495e

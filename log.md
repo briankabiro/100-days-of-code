@@ -377,3 +377,11 @@
 **Thoughts**:Module accepts configuration from external file
 
 **Link to work**:https://github.com/briankabiro/censys-node-js/commit/e1b77adf47f60e6302c44d7f74137e5817fd495e
+
+### Day 45: February 18, 2017
+
+**Today's Progress**:Worked more on censys functions
+
+**Thoughts**:Have to keep working hard every day so that I accomplish my dreams
+
+**Link to work**:https://github.com/briankabiro/censys-node-js/commit/089b75ee3eced924264a6cf1a08b22aa0e75cf34

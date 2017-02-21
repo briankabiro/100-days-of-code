@@ -393,3 +393,11 @@
 **Thoughts**:Like Asimov, have several projects running and then come back to them later with fresh eyes
 
 **Link to work**:Live-Tweets https://github.com/briankabiro/live-tweets/commit/1a40174fa7407da01c12ed180aad9b86068ff7b1
+
+### Day 46: February 20, 2017
+
+**Today's Progress**:Worked on npm package sizer stuff, will launch it tomorrow
+
+**Thoughts**:Time to see if solving this problem will pay off
+
+**Link to work**:https://github.com/briankabiro/npm-package-size/commit/cf16b6f522fe72a8c7a4f8ff345e5ac435997db0

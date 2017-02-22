@@ -401,3 +401,11 @@
 **Thoughts**:Time to see if solving this problem will pay off
 
 **Link to work**:https://github.com/briankabiro/npm-package-size/commit/cf16b6f522fe72a8c7a4f8ff345e5ac435997db0
+
+### Day 47: February 22, 2017
+
+**Today's Progress**:Laid out most of the module. What's left is to countercheck if it's accurate
+
+**Thoughts**:Working hard is the norm, need to become so good that they won't ignore me
+
+**Link to work**:https://github.com/briankabiro/npm-package-size/commit/94d8bf488cfcc5d4674202e1857cad31cd6c0e6f

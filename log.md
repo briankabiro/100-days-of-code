@@ -409,3 +409,11 @@
 **Thoughts**:Working hard is the norm, need to become so good that they won't ignore me
 
 **Link to work**:https://github.com/briankabiro/npm-package-size/commit/94d8bf488cfcc5d4674202e1857cad31cd6c0e6f
+
+### Day 48: February 23, 2017
+
+**Today's Progress**:Finished live-tweets just a little work left
+
+**Thoughts**:It's fun to work on challenging projects where you see there's a way out
+
+**Link to work**:https://github.com/briankabiro/live-tweets/commit/c093ca167c3faa2b8e3292ad74070bbfe168d237

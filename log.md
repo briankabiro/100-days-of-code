@@ -417,3 +417,11 @@
 **Thoughts**:It's fun to work on challenging projects where you see there's a way out
 
 **Link to work**:https://github.com/briankabiro/live-tweets/commit/c093ca167c3faa2b8e3292ad74070bbfe168d237
+
+### Day 49: February 24, 2017
+
+**Today's Progress**:Retouched live tweets and tried again at npm-package-size
+
+**Thoughts**:I continue to toil, know that it will work out and that this is the pain of learning
+
+**Link to work**:https://github.com/briankabiro/npm-package-size/commit/1aac8dcb559c5b97838bca21168068d3859ec9cf

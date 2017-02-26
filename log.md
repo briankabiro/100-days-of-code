@@ -425,3 +425,11 @@
 **Thoughts**:I continue to toil, know that it will work out and that this is the pain of learning
 
 **Link to work**:https://github.com/briankabiro/npm-package-size/commit/1aac8dcb559c5b97838bca21168068d3859ec9cf
+
+### Day 50: February 26, 2017
+
+**Today's Progress**:Laid out simon-says  
+
+**Thoughts**:Must work hard to deliver all my projects before March 13th
+
+**Link to work**:https://github.com/briankabiro/Simon-Says/commit/40c5d4001be15539a9bf533e6d6d724da7297cb0

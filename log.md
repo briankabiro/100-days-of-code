@@ -433,3 +433,11 @@
 **Thoughts**:Must work hard to deliver all my projects before March 13th
 
 **Link to work**:https://github.com/briankabiro/Simon-Says/commit/40c5d4001be15539a9bf533e6d6d724da7297cb0
+
+### Day 51: February 27, 2017
+
+**Today's Progress**:Worked on simon says layout and box breathing app  
+
+**Thoughts**:Working on projects concurently is the only way for me to reach my goal
+
+**Link to work**:https://github.com/briankabiro/Simon-Says/commit/def88129e4b6daf994d19f26d1a43df7fd4aaeea

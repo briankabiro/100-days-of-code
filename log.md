@@ -441,3 +441,11 @@
 **Thoughts**:Working on projects concurently is the only way for me to reach my goal
 
 **Link to work**:https://github.com/briankabiro/Simon-Says/commit/def88129e4b6daf994d19f26d1a43df7fd4aaeea
+
+### Day 52: February 28, 2017
+
+**Today's Progress**:I worked on the simon says app and added vue js
+
+**Thoughts**:This project will be messy but it will provide a good lesson for me
+
+**Link to work**:https://github.com/briankabiro/Simon-Says/commit/5dfd2d4b0d259a5097b8b7eb22f73ba9a13c9cbb

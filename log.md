@@ -465,3 +465,11 @@
 **Thoughts**:Really happy when things come together and are working. Wish it was more like that
 
 **Link to work**:Whatsapp https://github.com/briankabiro/Whatsapp/commit/bd06ab4490016fba1007b056b11c0e66be4f752f
+
+### Day 55: March 3, 2017
+
+**Today's Progress**:Added pictures to Whatsapp and more styles
+
+**Thoughts**:Once again the feeling of everything working out is just bliss
+
+**Link to work**:Whatsapp https://github.com/briankabiro/Whatsapp/blob/master/index.android.js

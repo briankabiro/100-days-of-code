@@ -8,7 +8,7 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
-### Day : February , 2017
+### Day : March , 2017
 
 **Today's Progress**:
 
@@ -449,3 +449,19 @@
 **Thoughts**:This project will be messy but it will provide a good lesson for me
 
 **Link to work**:https://github.com/briankabiro/Simon-Says/commit/5dfd2d4b0d259a5097b8b7eb22f73ba9a13c9cbb
+
+### Day 53: March 1, 2017
+
+**Today's Progress**:Started whatsapp in react native.
+
+**Thoughts**:I'm not so happy about simon says. Will have to seek outside help
+
+**Link to work**:Whatsapp https://github.com/briankabiro/Whatsapp/commit/e62ccf81265aec83163c4f2e4d401c7b2c73c838
+
+### Day 54: March 2, 2017
+
+**Today's Progress**:Touched simon says app but added navigation to Whatsapp
+
+**Thoughts**:Really happy when things come together and are working. Wish it was more like that
+
+**Link to work**:Whatsapp https://github.com/briankabiro/Whatsapp/commit/bd06ab4490016fba1007b056b11c0e66be4f752f

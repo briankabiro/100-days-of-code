@@ -473,3 +473,19 @@
 **Thoughts**:Once again the feeling of everything working out is just bliss
 
 **Link to work**:Whatsapp https://github.com/briankabiro/Whatsapp/blob/master/index.android.js
+
+<!-- ### Day : March , 2017
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**: -->
+
+### Day 56: March 4, 2017
+
+**Today's Progress**:Worked on whatsapp
+
+**Thoughts**:Will have to focus more efforts on my projects so that I can complete them in deadline
+
+**Link to work**:https://github.com/briankabiro/Whatsapp/commit/bd2aa32c80e854c2cc9bd1cf7a12197dc854c560

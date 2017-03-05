@@ -489,3 +489,11 @@
 **Thoughts**:Will have to focus more efforts on my projects so that I can complete them in deadline
 
 **Link to work**:https://github.com/briankabiro/Whatsapp/commit/bd2aa32c80e854c2cc9bd1cf7a12197dc854c560
+
+### Day 57: March 5, 2017
+
+**Today's Progress**:Made whatsapp a pleasant project
+
+**Thoughts**:Need to revamp my efforts if I'm to meet the deadline
+
+**Link to work**:https://github.com/briankabiro/Whatsapp/commit/035ccc87547a92a81b2a0b188ddfd549d9c078f6

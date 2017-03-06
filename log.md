@@ -497,3 +497,11 @@
 **Thoughts**:Need to revamp my efforts if I'm to meet the deadline
 
 **Link to work**:https://github.com/briankabiro/Whatsapp/commit/035ccc87547a92a81b2a0b188ddfd549d9c078f6
+
+### Day 58: March 6, 2017
+
+**Today's Progress**:Did Music app UI, tried to style Whatsapp navigation
+
+**Thoughts**:We can only work hard to meet our deadlines. Discipline equals freedom
+
+**Link to work**:https://github.com/briankabiro/Whatsapp/commit/97f9eda18cc92c7785cab740dd65fec654d652f6

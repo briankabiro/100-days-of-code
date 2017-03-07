@@ -505,3 +505,11 @@
 **Thoughts**:We can only work hard to meet our deadlines. Discipline equals freedom
 
 **Link to work**:https://github.com/briankabiro/Whatsapp/commit/97f9eda18cc92c7785cab740dd65fec654d652f6
+
+### Day 59: March 7, 2017
+
+**Today's Progress**:Did a little work on music app and simon says redesign
+
+**Thoughts**:It's better to eat the frog first so tomorrow I'm waking up pretty early to work
+
+**Link to work**:Simon-Says https://github.com/briankabiro/Simon-Says/commit/17e5af447d8174c73f64c7862769fe558d1a9571

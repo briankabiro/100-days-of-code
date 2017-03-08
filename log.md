@@ -513,3 +513,11 @@
 **Thoughts**:It's better to eat the frog first so tomorrow I'm waking up pretty early to work
 
 **Link to work**:Simon-Says https://github.com/briankabiro/Simon-Says/commit/17e5af447d8174c73f64c7862769fe558d1a9571
+
+ ### Day 60: March 8, 2017
+
+**Today's Progress**:Did some styling to music app and added more functions to simon app
+
+**Thoughts**:It's really fun having many projects running concurrently. Gives you something to be happy about.
+
+**Link to work**:https://github.com/briankabiro/Simon-Says/commit/434622bf33f29ea3826b5c5e1927a83ee9d0f0fc

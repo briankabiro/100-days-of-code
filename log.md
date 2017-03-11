@@ -521,3 +521,19 @@
 **Thoughts**:It's really fun having many projects running concurrently. Gives you something to be happy about.
 
 **Link to work**:https://github.com/briankabiro/Simon-Says/commit/434622bf33f29ea3826b5c5e1927a83ee9d0f0fc
+
+### Day 61: March 10, 2017
+
+**Today's Progress**:Finished writing functions of simon app
+
+**Thoughts**:the thought of css styling really bores and irks me. will have to find a better way to deal with it
+
+**Link to work**:Simon App https://github.com/briankabiro/Simon-Says/commit/314ccf8da7d2b046a81770a33d9b22c25b1a6b93
+
+### Day 62: March 11, 2017
+
+**Today's Progress**:Fixed a little errors on simon app, worked on storage app
+
+**Thoughts**:Eating the frog is the surest way to be productive
+
+**Link to work**:https://github.com/briankabiro/Simon-Says/commit/1cd105ca9beda8fda80d5a0bef673c31918513f5

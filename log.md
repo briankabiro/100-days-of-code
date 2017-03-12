@@ -537,3 +537,11 @@
 **Thoughts**:Eating the frog is the surest way to be productive
 
 **Link to work**:https://github.com/briankabiro/Simon-Says/commit/1cd105ca9beda8fda80d5a0bef673c31918513f5
+
+### Day 63: March 12, 2017
+
+**Today's Progress**:Finished simon says app to some extent
+
+**Thoughts**:Need to pick another battle tomorrow and force myself to finish it
+
+**Link to work**:Simon app https://github.com/briankabiro/Simon-Says/commit/4f6983f473e688319c474734b1c0386e231e1e81

@@ -545,3 +545,11 @@
 **Thoughts**:Need to pick another battle tomorrow and force myself to finish it
 
 **Link to work**:Simon app https://github.com/briankabiro/Simon-Says/commit/4f6983f473e688319c474734b1c0386e231e1e81
+
+### Day 64: March 13, 2017
+
+**Today's Progress**:Designed Calls Page of Whatsapp
+
+**Thoughts**:Having a lot of concurrent projects is good. It means you always have something to work on
+
+**Link to work**:https://github.com/briankabiro/Whatsapp/commit/2ff19474fff71dcea190300fb3659165f3e793f3

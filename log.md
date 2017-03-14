@@ -553,3 +553,11 @@
 **Thoughts**:Having a lot of concurrent projects is good. It means you always have something to work on
 
 **Link to work**:https://github.com/briankabiro/Whatsapp/commit/2ff19474fff71dcea190300fb3659165f3e793f3
+
+### Day 65: March 14, 2017
+
+**Today's Progress**:Added a few features to Whatsapp
+
+**Thoughts**:Taking an hour off each day to work on these projects is something I must do each day
+
+**Link to work**:https://github.com/briankabiro/Whatsapp/commit/77d28b91c218286bf77f1cbaf99d03012201a460

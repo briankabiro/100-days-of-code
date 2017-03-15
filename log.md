@@ -561,3 +561,11 @@
 **Thoughts**:Taking an hour off each day to work on these projects is something I must do each day
 
 **Link to work**:https://github.com/briankabiro/Whatsapp/commit/77d28b91c218286bf77f1cbaf99d03012201a460
+
+### Day 66: March 15, 2017
+
+**Today's Progress**:Setup the Chatscreen. Started a number of other projects
+
+**Thoughts**:Feel like the days aren't enough but I know I'll be done by the end of the month if I keep this up
+
+**Link to work**:https://github.com/briankabiro/Whatsapp/commit/8d1aa5951f1eb9b0a351c4604a5bd46b8aa2d0d9

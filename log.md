@@ -569,3 +569,11 @@
 **Thoughts**:Feel like the days aren't enough but I know I'll be done by the end of the month if I keep this up
 
 **Link to work**:https://github.com/briankabiro/Whatsapp/commit/8d1aa5951f1eb9b0a351c4604a5bd46b8aa2d0d9
+
+### Day 67: March 16, 2017
+
+**Today's Progress**:Added my own chatting functionality.All that's left is the colors.
+
+**Thoughts**:It's imperative to work hard right now. Hopefully, it will all pay off in the future.
+
+**Link to work**:Whatsapp https://github.com/briankabiro/Whatsapp/commit/8c43d0ccda91babed0090c5a2bd08e2f18605889

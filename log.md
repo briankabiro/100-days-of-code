@@ -577,3 +577,11 @@
 **Thoughts**:It's imperative to work hard right now. Hopefully, it will all pay off in the future.
 
 **Link to work**:Whatsapp https://github.com/briankabiro/Whatsapp/commit/8c43d0ccda91babed0090c5a2bd08e2f18605889
+
+### Day 68: March 17, 2017
+
+**Today's Progress**:Changed Whatsapp colors
+
+**Thoughts**:Procrastinated a lot on the internet. Should be like Calvin Harris, rest when not working
+
+**Link to work**:https://github.com/briankabiro/Whatsapp/commit/9ebc72d6a7f1b331ef1d59f8be090add5c9a3768

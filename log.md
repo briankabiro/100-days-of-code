@@ -585,3 +585,12 @@
 **Thoughts**:Procrastinated a lot on the internet. Should be like Calvin Harris, rest when not working
 
 **Link to work**:https://github.com/briankabiro/Whatsapp/commit/9ebc72d6a7f1b331ef1d59f8be090add5c9a3768
+
+
+### Day 69: March 18, 2017
+
+**Today's Progress**:added more messages to chatscreen and worked on ulizia page
+
+**Thoughts**:Have to sacrifice my time even when it gets hard
+
+**Link to work**:https://github.com/briankabiro/Whatsapp/commit/e92a620a595e5b70ebd91af665bec8ef23f9d1f0

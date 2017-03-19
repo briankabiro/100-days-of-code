@@ -594,3 +594,11 @@
 **Thoughts**:Have to sacrifice my time even when it gets hard
 
 **Link to work**:https://github.com/briankabiro/Whatsapp/commit/e92a620a595e5b70ebd91af665bec8ef23f9d1f0
+
+### Day 70: March 19, 2017
+
+**Today's Progress**:Worked on basic styling of the voter app
+
+**Thoughts**:Dedicating an hour for each task is the best way for me to feel like I've accomplished something
+
+**Link to work**:VoterApp https://github.com/briankabiro/VoterApp/commit/496b089c6f993cec2144c726d4175372dc90066b

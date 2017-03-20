@@ -602,3 +602,11 @@
 **Thoughts**:Dedicating an hour for each task is the best way for me to feel like I've accomplished something
 
 **Link to work**:VoterApp https://github.com/briankabiro/VoterApp/commit/496b089c6f993cec2144c726d4175372dc90066b
+
+### Day 71: March 20, 2017
+
+**Today's Progress**:Designed buttons and the governor page
+
+**Thoughts**:Need to keep on my one hour a project policy. Promises are really racking my brain.
+
+**Link to work**:Voter App https://github.com/briankabiro/VoterApp/commit/82e0c8ac2a0c69e5b2efb31d0460c549f6fab13e

@@ -610,3 +610,11 @@
 **Thoughts**:Need to keep on my one hour a project policy. Promises are really racking my brain.
 
 **Link to work**:Voter App https://github.com/briankabiro/VoterApp/commit/82e0c8ac2a0c69e5b2efb31d0460c549f6fab13e
+
+### Day 72: March 21, 2017
+
+**Today's Progress**:added navigation and more photos to app
+
+**Thoughts**:Need to work hard on promises. Will save me alot of time in the future
+
+**Link to work**:https://github.com/briankabiro/VoterApp/commit/a570b586a6cd3b6a6ba5995343b7dbbafd659814

@@ -618,3 +618,11 @@
 **Thoughts**:Need to work hard on promises. Will save me alot of time in the future
 
 **Link to work**:https://github.com/briankabiro/VoterApp/commit/a570b586a6cd3b6a6ba5995343b7dbbafd659814
+
+### Day 73: March 22, 2017
+
+**Today's Progress**:Worked on mpesa conmen and added listview to the voter app
+
+**Thoughts**:Need to think about the design of the voter app if I'm going to work more on it
+
+**Link to work**:Voter App https://github.com/briankabiro/VoterApp/commit/8b1a172b8de605f050cb6dae63c93b21fa2365dc

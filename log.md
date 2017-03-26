@@ -626,3 +626,27 @@
 **Thoughts**:Need to think about the design of the voter app if I'm going to work more on it
 
 **Link to work**:Voter App https://github.com/briankabiro/VoterApp/commit/8b1a172b8de605f050cb6dae63c93b21fa2365dc
+
+### Day 74: March 23, 2017
+
+**Today's Progress**:Added more styles to the voter app
+
+**Thoughts**:
+
+**Link to work**:https://github.com/briankabiro/VoterApp/commit/95431d5283284dbbd2def12e673c0f12ac4e0eeb
+
+### Day 75: March 25, 2017
+
+**Today's Progress**:Committed to building the fashion brand chatbot
+
+**Thoughts**:Have a lot of work to do i.e editing the brand text list
+
+**Link to work**:My Bot https://github.com/briankabiro/my-bot
+
+### Day 76: March 26, 2017
+
+**Today's Progress**:Watched Teen Wolf and started the chatapp
+
+**Thoughts**:Will have to fully commit myself this coming week. Detach my feelings to get out of my comfort zone
+
+**Link to work**:https://github.com/briankabiro/ChatApp/commit/e69e607175f620cd7ae33dec35c2bbdc9ebac1f4

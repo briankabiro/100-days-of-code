@@ -650,3 +650,37 @@
 **Thoughts**:Will have to fully commit myself this coming week. Detach my feelings to get out of my comfort zone
 
 **Link to work**:https://github.com/briankabiro/ChatApp/commit/e69e607175f620cd7ae33dec35c2bbdc9ebac1f4
+
+### Day 77: March 27, 2017
+
+**Today's Progress**:Worked a little bit on the bot
+
+**Thoughts**:Configuration stuff really takes alot of time. Hopefully it's a one time thing.
+
+**Link to work**:https://github.com/briankabiro/newBot/commit/6b8c87097b885771d24be2ea9fff1ce8ede3cf68
+
+### Day 78: March 28, 2017
+
+**Today's Progress**:Jalada styling and page routing
+
+**Thoughts**:AVG antivirus cost me a lot of time today. Had to remove it to restore productivity
+
+**Link to work**:https://github.com/briankabiro/Jalada/commit/1f9218526f49fa635f2d5ee316438f3b19519e94
+
+
+<!-- ### Day : March , 2017
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work**: -->
+
+
+### Day 79: March 29, 2017
+
+**Today's Progress**:ChatApp template is completely over
+
+**Thoughts**:Have to rack my brain now to add the other features to the app
+
+**Link to work**: https://github.com/briankabiro/ChatApp/commit/98650f9618cd8cea251f980db1ac7795d3b6c51b

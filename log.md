@@ -684,3 +684,11 @@
 **Thoughts**:Have to rack my brain now to add the other features to the app
 
 **Link to work**: https://github.com/briankabiro/ChatApp/commit/98650f9618cd8cea251f980db1ac7795d3b6c51b
+
+### Day 80: March 30, 2017
+
+**Today's Progress**:Integrated next with Jalada
+
+**Thoughts**:Next step is building the routes to the app.
+
+**Link to work**:Jalada https://github.com/briankabiro/Jalada/commit/c96ca1799563cb327466f7dc822f12f6a5907a0b

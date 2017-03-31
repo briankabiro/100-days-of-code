@@ -692,3 +692,11 @@
 **Thoughts**:Next step is building the routes to the app.
 
 **Link to work**:Jalada https://github.com/briankabiro/Jalada/commit/c96ca1799563cb327466f7dc822f12f6a5907a0b
+
+### Day : March , 2017
+
+**Today's Progress**:The bot is working!
+
+**Thoughts**:Finally some good news, was starting to think that I wasn't getting anywhere 
+
+**Link to work**:https://github.com/briankabiro/newBot/commit/62d9561a9f427ed25c03ea6b87020452c43a1d77

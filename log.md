@@ -668,7 +668,7 @@
 **Link to work**:https://github.com/briankabiro/Jalada/commit/1f9218526f49fa635f2d5ee316438f3b19519e94
 
 
-<!-- ### Day : March , 2017
+<!-- ### Day : April , 2017
 
 **Today's Progress**:
 
@@ -693,10 +693,18 @@
 
 **Link to work**:Jalada https://github.com/briankabiro/Jalada/commit/c96ca1799563cb327466f7dc822f12f6a5907a0b
 
-### Day : March , 2017
+### Day 81: March 31, 2017
 
 **Today's Progress**:The bot is working!
 
 **Thoughts**:Finally some good news, was starting to think that I wasn't getting anywhere 
 
 **Link to work**:https://github.com/briankabiro/newBot/commit/62d9561a9f427ed25c03ea6b87020452c43a1d77
+
+### Day 82: April 1, 2017
+
+**Today's Progress**:Formatted the text with a little help from code
+
+**Thoughts**:Hopefully app will be finished tomorrow depending on the potency of the database
+
+**Link to work**:New Bot https://github.com/briankabiro/newBot/commit/56f010056c7540e27338ebd06be4aca856cf2ea1

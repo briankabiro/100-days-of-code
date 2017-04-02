@@ -708,3 +708,11 @@
 **Thoughts**:Hopefully app will be finished tomorrow depending on the potency of the database
 
 **Link to work**:New Bot https://github.com/briankabiro/newBot/commit/56f010056c7540e27338ebd06be4aca856cf2ea1
+
+### Day 83: April 2, 2017
+
+**Today's Progress**:Worked on the bot data
+
+**Thoughts**:Don't know if I should head to database right away
+
+**Link to work**:New Bot https://github.com/briankabiro/newBot/commit/0637c5ce80eb6e637b8f6650c3f26a46dc0dbefe

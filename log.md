@@ -716,3 +716,11 @@
 **Thoughts**:Don't know if I should head to database right away
 
 **Link to work**:New Bot https://github.com/briankabiro/newBot/commit/0637c5ce80eb6e637b8f6650c3f26a46dc0dbefe
+
+### Day 84: April , 2017
+
+**Today's Progress**:Bot data us still hard to work out
+
+**Thoughts**:Will work on Jalada tomorrow. I need to 
+
+**Link to work**:

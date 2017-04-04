@@ -717,10 +717,18 @@
 
 **Link to work**:New Bot https://github.com/briankabiro/newBot/commit/0637c5ce80eb6e637b8f6650c3f26a46dc0dbefe
 
-### Day 84: April , 2017
+### Day 84: April 3, 2017
 
 **Today's Progress**:Bot data us still hard to work out
 
 **Thoughts**:Will work on Jalada tomorrow. I need to 
 
 **Link to work**:https://github.com/briankabiro/newBot/commit/db684e91da4c468691f036604ecf2a6028c11a02
+
+### Day 85: April 4, 2017
+
+**Today's Progress**:Mpesa conmen final touches. Jalada pages
+
+**Thoughts**:At least I found progress on these two parts. On we go
+
+**Link to work**:Jalada https://github.com/briankabiro/Jalada/commit/247b70857387a610b467aec06b347fd0a8623435

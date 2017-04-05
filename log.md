@@ -732,3 +732,11 @@
 **Thoughts**:At least I found progress on these two parts. On we go
 
 **Link to work**:Jalada https://github.com/briankabiro/Jalada/commit/247b70857387a610b467aec06b347fd0a8623435
+
+ ### Day 86: April 5, 2017
+
+**Today's Progress**:jalada pages ctrl-c; ctrl-v
+
+**Thoughts**:Listening to user feedback. So much I didn't realize. Get that beta out right now
+
+**Link to work**:https://github.com/briankabiro/Jalada/commit/f1f8944765884da7b864eb7d4cc32b89dcaeeb14

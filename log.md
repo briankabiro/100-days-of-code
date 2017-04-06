@@ -740,3 +740,12 @@
 **Thoughts**:Listening to user feedback. So much I didn't realize. Get that beta out right now
 
 **Link to work**:https://github.com/briankabiro/Jalada/commit/f1f8944765884da7b864eb7d4cc32b89dcaeeb14
+
+
+### Day 87: April 6, 2017
+
+**Today's Progress**:Jalada, jalada, jalada
+
+**Thoughts**:Need to start from the beginning and add as needed so that I spot errors
+
+**Link to work**:Jalada https://github.com/briankabiro/Jalada/commit/76074b5a892ad0bce2b09f1503c551bf95929b8e

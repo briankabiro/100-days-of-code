@@ -749,3 +749,11 @@
 **Thoughts**:Need to start from the beginning and add as needed so that I spot errors
 
 **Link to work**:Jalada https://github.com/briankabiro/Jalada/commit/76074b5a892ad0bce2b09f1503c551bf95929b8e
+
+### Day 88: April 7, 2017
+
+**Today's Progress**:Started Jalada from scratch
+
+**Thoughts**:Now I understand why the developer's time is more important than machine time. Errors are not healthy
+
+**Link to work**: https://github.com/briankabiro/Jalada/commit/3076b0ce7b60b026fe906b7a995cd72b71996fa6

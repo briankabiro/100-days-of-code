@@ -757,3 +757,11 @@
 **Thoughts**:Now I understand why the developer's time is more important than machine time. Errors are not healthy
 
 **Link to work**: https://github.com/briankabiro/Jalada/commit/3076b0ce7b60b026fe906b7a995cd72b71996fa6
+
+### Day 89: April 8, 2017
+
+**Today's Progress**:Reworked on jalada from scratch
+
+**Thoughts**:Don't know what was causing the github error. Stick to the tools you use most
+
+**Link to work**:https://github.com/briankabiro/Jalada/commit/0d73c26e0971676e0ac639fe66583dac61a35765

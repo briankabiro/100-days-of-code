@@ -765,3 +765,11 @@
 **Thoughts**:Don't know what was causing the github error. Stick to the tools you use most
 
 **Link to work**:https://github.com/briankabiro/Jalada/commit/0d73c26e0971676e0ac639fe66583dac61a35765
+
+### Day 90 : April 9, 2017
+
+**Today's Progress**:Worked on login pages and header js
+
+**Thoughts**:Will commit myself to completing this stuff. It's the only way
+
+**Link to work**:Jalada https://github.com/briankabiro/Jalada/commit/cd50d8016e28a6bb4fb33eee2a0c70c82aa824ea

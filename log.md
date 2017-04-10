@@ -773,3 +773,11 @@
 **Thoughts**:Will commit myself to completing this stuff. It's the only way
 
 **Link to work**:Jalada https://github.com/briankabiro/Jalada/commit/cd50d8016e28a6bb4fb33eee2a0c70c82aa824ea
+
+### Day 91: April 10, 2017
+
+**Today's Progress**:Mpesa conmen errors
+
+**Thoughts**:Jalada and mpesa conmen errors. Delayed by need to read music pdf
+
+**Link to work**:https://github.com/briankabiro/Jalada/commit/0a760406012e1a2ca1e5dab775a11160c68be59b

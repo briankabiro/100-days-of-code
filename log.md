@@ -781,3 +781,11 @@
 **Thoughts**:Jalada and mpesa conmen errors. Delayed by need to read music pdf
 
 **Link to work**:https://github.com/briankabiro/Jalada/commit/0a760406012e1a2ca1e5dab775a11160c68be59b
+
+### Day 92: April 12, 2017
+
+**Today's Progress**:Added editor page and achieved escape velocity
+
+**Thoughts**:When it gets hard, remember why you started
+
+**Link to work**:https://github.com/briankabiro/Jalada/commit/7e5591af644dc2fafe87a533a1d72a6815900acb

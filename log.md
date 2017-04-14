@@ -789,3 +789,11 @@
 **Thoughts**:When it gets hard, remember why you started
 
 **Link to work**:https://github.com/briankabiro/Jalada/commit/7e5591af644dc2fafe87a533a1d72a6815900acb
+
+### Day 93: April 13 , 2017
+
+**Today's Progress**:Worked on billboard new songs and a little bit of jalada
+
+**Thoughts**:It's fun when 90% of the time things just work
+
+**Link to work**Billboard new songs https://github.com/briankabiro/Billboard-New-Songs-Chart/commit/3eb1dd336087e9d6501d6bc6cb0b106371d505bd

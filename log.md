@@ -826,6 +826,6 @@
 
 **Today's Progress**:Added new async module Billboard new songs
 
-**Thoughts**:Still don't know why network requests 
+**Thoughts**:Still don't know why network requests aren't obeying the module
 
 **Link to work**: https://github.com/briankabiro/Billboard-New-Songs-Chart/commits?author=briankabiro&since=2017-04-16T21:00:00Z&until=2017-04-17T21:00:00Z

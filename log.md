@@ -797,3 +797,35 @@
 **Thoughts**:It's fun when 90% of the time things just work
 
 **Link to work**Billboard new songs https://github.com/briankabiro/Billboard-New-Songs-Chart/commit/3eb1dd336087e9d6501d6bc6cb0b106371d505bd
+
+### Day 94: April 14, 2017
+
+**Today's Progress**:Worked on billboard new songs
+
+**Thoughts**:Tried to add async plugin that it didn't work
+
+**Link to work**: https://github.com/briankabiro/Billboard-New-Songs-Chart/commits?author=briankabiro&since=2017-04-13T21:00:00Z&until=2017-04-14T21:00:00Z
+
+### Day 95: April 15, 2017
+
+**Today's Progress**:Worked on new bot for a bit
+
+**Thoughts**:Was able to format the data and get the code able to read it.
+
+**Link to work**: https://github.com/briankabiro/newBot/commits?author=briankabiro&since=2017-04-14T21:00:00Z&until=2017-04-15T21:00:00Z
+
+### Day 96: April 16, 2017
+
+**Today's Progress**:Worked on new bot but wasn't able to move far
+
+**Thoughts**:Facebook errors and complete overhaul got me here
+
+**Link to work**: https://github.com/briankabiro/newBot/commits?author=briankabiro&since=2017-04-15T21:00:00Z&until=2017-04-16T21:00:00Z
+
+### Day 97: April 17, 2017
+
+**Today's Progress**:Added new async module Billboard new songs
+
+**Thoughts**:Still don't know why network requests 
+
+**Link to work**: https://github.com/briankabiro/Billboard-New-Songs-Chart/commits?author=briankabiro&since=2017-04-16T21:00:00Z&until=2017-04-17T21:00:00Z

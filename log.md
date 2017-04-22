@@ -829,3 +829,37 @@
 **Thoughts**:Still don't know why network requests aren't obeying the module
 
 **Link to work**: https://github.com/briankabiro/Billboard-New-Songs-Chart/commits?author=briankabiro&since=2017-04-16T21:00:00Z&until=2017-04-17T21:00:00Z
+
+### Day 98: April 18, 2017
+
+**Today's Progress**:Added mongo db to Billboard new songs
+
+**Thoughts**:Setting up was a pretty hard task but I was able to keep on
+
+**Link to work**:https://github.com/briankabiro/Billboard-New-Songs-Chart/commit/98fdba8db388825f89655abfc89865a51bf9cade
+
+### Day 99: April 19, 2017
+
+**Today's Progress**:Got mongodb to accept my data
+
+**Thoughts**:The errors never end so we have to keep on writing code
+
+**Link to work**: https://github.com/briankabiro/Billboard-New-Songs-Chart/commit/1e2429a895ea0db6e79448579bfaf9b89f59c59b
+
+
+### Day 100: April 20, 2017
+
+**Today's Progress**:Got new bot to work to some extent
+
+**Thoughts**:Connection issues are still a major problem when I'm making the bot
+
+**Link to work**:new bot https://github.com/briankabiro/newBot/commit/ade20969f97de08ea1e98a97e020a3de88f5c547
+
+
+### Day 101: April 21, 2017
+
+**Today's Progress**:Added jquery bit to html frontend
+
+**Thoughts**:Issue is still tricky because of image fetching
+
+**Link to work**: https://github.com/briankabiro/Billboard-New-Songs-Chart/commit/234fc0f9ff194a881d93afd6dfa4b695a886c1eb
